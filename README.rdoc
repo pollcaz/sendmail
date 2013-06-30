@@ -1,0 +1,5 @@
+Aplicación SendMail
+
+Se basa en un ejercicio aplicado del railscast #206 Action Mailer de como hacer para enviar correos en Rails3
+
+Espero les sea de gran ayuda!.
